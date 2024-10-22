@@ -1,7 +1,7 @@
 # Exploiting Representation Curvature for Boundary Detection in Time Series
 
-> __Publication__<\br>
-> Shin, Y., Park, J., Yoon, S., Song, H., Lee B., Lee, J., "Exploiting Representation Curvature for Boundary Detection in Time Series", *In Proceedings of Conference on Neural Information Processing Systems (NeurIPS), 2024. [[link]](https://nips.cc/virtual/2024/poster/94837)
+> __Publication__ </br>
+> Shin, Y., Park, J., Yoon, S., Song, H., Lee B., Lee, J., "Exploiting Representation Curvature for Boundary Detection in Time Series", In *Proceedings of Conference on Neural Information Processing Systems (NeurIPS)*, 2024. [[link]](https://nips.cc/virtual/2024/poster/94837)
 
 This repository is the official PyTorch implementation of **RECURVE**.
 
