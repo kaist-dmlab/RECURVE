@@ -9,7 +9,7 @@ This repository is the official PyTorch implementation of **RECURVE**.
 
 ## How to Install
 
-1. We require following packages to run the code. Please download all requirements in your python environment. 
+1. We require following packages to run the code. Please download all the requirements in your python environment. 
 	- python 3.9.15
 	- pytorch 1.13.1
 	- numpy 1.25.0
